@@ -3,5 +3,5 @@ Hello my name is Shaun Houck. I'm a Computer Science and Mathematics graduate fr
 
 <h2>Contact me at:</h2>
 <p align="center"> 
- <a href="https://www.linkedin.com/in/houcksm/" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/houcksm/" target="_blank" rel="noopener noreferrer"></a>
 </p>
